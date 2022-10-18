@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 16px;
+  max-width: 936px;
+}
+
+.title {
+  font-family: "Arial";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 39px;
+  text-align: center;
+  color: #070707;
+}
+
+.text {
+  font-family: "Arial";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #070707;
+}
+
+/* global style */
+
+.portfolio {
+  background: #f6f6f6;
+  padding-top: 112px;
+  padding-bottom: 96px;
+}
+
+.portfolio__title {
+  margin-bottom: 47px;
+}
+
+.portfolio__img {
+  width: 100%;
+  min-width: 500px;
+  margin-bottom: 40px;
+}
+
+.portfolio__text {
+  margin-bottom: 99px;
+}
+
+.contacts {
+  padding-top: 114px;
+  padding-bottom: 123px;
+}
+
+.contacts__contain {
+  max-width: 342px;
+}
+.contacts__title {
+  margin-bottom: 20px;
+}
+
+.contacts__text {
+  margin-bottom: 30px;
+}
+
+.contacts__button {
+  margin: 0 auto;
+  margin-bottom: 85px;
+}
+
+.contacts__ithems {
+  margin-bottom: 45px;
+}
+
+.contacts__link-text {
+  font-family: "Arial";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #828282;
+}
